@@ -1,1 +1,1 @@
-# basic-analytics-coffees-shop-dataset
+# basic-analytics-coffee-shop-dataset
